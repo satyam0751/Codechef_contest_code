@@ -1,2 +1,2 @@
 # Codechef_contest_code
-Programming codes of codechef chalanges
+Programming codes of codechef challanges
